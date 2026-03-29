@@ -1,7 +1,7 @@
 ## INSTALACIÓN
 ```
-git clone https://github.com/barba99/Traductor 
-cd Traductor 
+git clone https://github.com/Ren126221/Prueba- 
+cd Prueba Traductor 
 python traductor.py
 ```
 
